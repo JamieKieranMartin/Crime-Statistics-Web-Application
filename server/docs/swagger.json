@@ -15,7 +15,7 @@
   },
   "servers": [
     {
-      "url": "https://172.22.29.180"
+      "url": "https://localhost"
     }
   ],
   "tags": [
