@@ -1,0 +1,31 @@
+{/*<form onSubmit={handleSearch}>
+              <input
+                className="form-control mr-sm-2"
+                placeholder="search an offence"
+                name="offence"
+                value={search}
+                onChange={handleChange.bind(this)}
+              />
+               </form>*/}
+
+               
+  /*function handleError() {
+    if (alert.title != null) {
+      return <div className={`alert alert-${alert.type}`}>{alert.title}</div>;
+    }
+  }*/
+
+  /*const handleChange = e => {
+    setSearch(e.target.value);
+  };
+
+  const handleSearch = () => {
+    return (
+      <Redirect
+        to={{
+          pathname: "/search",
+          search: `?${search}`
+        }}
+      />
+    );
+  };*/
